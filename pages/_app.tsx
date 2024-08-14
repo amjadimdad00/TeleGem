@@ -7,10 +7,10 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <link rel="icon" href="/logo.png" type="image/x-icon" />
-        <title>StreamVerse</title>
+        <title>MusicStream</title>
         <meta
           name="description"
-          content="StreamVerse: A personalized streaming platform featuring custom series, drama episodes, anime, and a unique section for heartfelt apologies."
+          content="MusicStream is a music app combining songs with personalized apology messages. Designed with a Blossom theme, it offers a unique way to express regret and reconcile. Simple, elegant, and heartfelt, StreamVerse aims to mend relationships through music and meaningful messages."
         />
       </Head>
       <Component {...pageProps} />;
