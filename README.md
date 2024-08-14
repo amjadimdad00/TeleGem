@@ -10,4 +10,4 @@
 
 ## Interface
 
-![MusicStream](/MusicStream.png)
+![MusicStream](/ReadME.png)
