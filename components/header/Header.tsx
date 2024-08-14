@@ -26,7 +26,7 @@ const Header = ({ showVideo, selectedSong, songs }: HeaderProps) => {
               className="link-container mt-1 text-3xl font-extrabold"
               onClick={() => window.location.reload()}
             >
-              StreamVerse
+              MusicStream
             </span>
           </h1>
         </Link>
