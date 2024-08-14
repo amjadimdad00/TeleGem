@@ -6,7 +6,7 @@ import card4 from "../public/Songs/VeHaaniyan.png";
 import card5 from "../public/Songs/TuHaiKahan.png";
 import card6 from "../public/Songs/Shikayat.png";
 import card7 from "../public/Songs/Heeriye.jpg";
-import card8 from "../public/Songs/Chaleya.png";
+import card8 from "../public/Songs/MeraSafar.png";
 import card9 from "../public/Songs/TuneJoNaKaha.png";
 import card10 from "../public/Songs/TuHiYarMera.png";
 import card11 from "../public/Songs/Safar.png";
@@ -64,7 +64,7 @@ export const imageItems = (
     src={card8}
     alt="Song 08"
     className="h-full w-full"
-    onClick={() => handleImageClick("Song_08", "Bi7sSC046dk")}
+    onClick={() => handleImageClick("Song_08", "aYLJnasivzI")}
   />,
   <Image
     src={card9}
