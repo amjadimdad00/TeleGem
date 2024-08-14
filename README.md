@@ -1,6 +1,6 @@
-# StreamVerse
+# MusicStream
 
-**StreamVerse** is a music application designed to blend heartfelt apology messages with a curated playlist of songs. The app features a Blossom-themed interface, creating a soothing and elegant user experience.
+**MusicStream** is a music application designed to blend heartfelt apology messages with a curated playlist of songs. The app features a Blossom-themed interface, creating a soothing and elegant user experience.
 
 ## Features
 
@@ -10,4 +10,4 @@
 
 ## Interface
 
-![StreamVerse](/StreamVerse.png)
+![MusicStream](/StreamVerse.png)
