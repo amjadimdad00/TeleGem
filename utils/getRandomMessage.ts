@@ -1,9 +1,9 @@
 type Messages = {
-  SorryMessages: string[];
+  LoveMessages: string[];
 };
 
 export const getRandomMessage = (messages: Messages): string => {
-  const sorryMessages = messages.SorryMessages;
-  const randomIndex = Math.floor(Math.random() * sorryMessages.length);
-  return sorryMessages[randomIndex];
+  const LoveMessages = messages.LoveMessages;
+  const randomIndex = Math.floor(Math.random() * LoveMessages.length);
+  return LoveMessages[randomIndex];
 };
