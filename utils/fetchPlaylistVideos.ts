@@ -33,7 +33,7 @@ export const fetchPlaylistVideos = async (
     );
     url = data.nextPageToken
       ? `https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=${playlistId}&key=${apiKey}&pageToken=${data.nextPageToken}`
-      : null;
+      : "";
   }
 
   return videos;
