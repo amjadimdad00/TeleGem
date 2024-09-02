@@ -6,11 +6,11 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="icon" href="/logo.png" type="image/x-icon" />
-        <title>MusicStream</title>
+        <link rel="icon" href="../public/TeleGem.png" type="image/x-icon" />
+        <title>TeleGem</title>
         <meta
           name="description"
-          content="MusicStream is a music app combining songs with personalized apology messages. Designed with a Blossom theme, it offers a unique way to express regret and reconcile. Simple, elegant, and heartfelt, StreamVerse aims to mend relationships through music and meaningful messages."
+          content="TeleGem 📺 is a TV serial app with a curated selection of your favorite shows and custom-picked serials. Designed with a Blossom theme 🌸, it blends engaging dramas with heartfelt messages for a personalized viewing experience. Simple, elegant, and meaningful, TeleGem 📺 enhances your TV moments with a touch of charm. ❤️✨"
         />
       </Head>
       <Component {...pageProps} />;

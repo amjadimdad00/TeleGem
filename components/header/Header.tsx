@@ -21,12 +21,12 @@ const Header = ({ showVideo, selectedSong, songs }: HeaderProps) => {
       >
         <Link href="/">
           <h1 className="flex items-center transition duration-300 hover:opacity-100">
-            <Image src={Logo} alt="Logo" className="w-16 rounded-full" />
+            <Image src="/TeleGem.png" width={80} height={80} alt="Logo" />
             <span
-              className="link-container mt-1 text-3xl font-extrabold"
+              className="link-container mt-1 text-4xl font-extrabold"
               onClick={() => window.location.reload()}
             >
-              MusicStream
+              TeleGem
             </span>
           </h1>
         </Link>
