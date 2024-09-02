@@ -39,7 +39,7 @@ const Header = ({ showVideo, selectedSong, songs }: HeaderProps) => {
             By{" "}
             <span>
               <Link
-                href="https://www.facebook.com/amjadimdad00"
+                href="https://www.linkedin.com/in/amjadimdad00"
                 target="_blank"
               >
                 Amjad Imdad
