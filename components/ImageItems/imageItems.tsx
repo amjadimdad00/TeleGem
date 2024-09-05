@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { shows } from "../../../utils/shows";
+import { shows } from "../../utils/shows";
 
 export const imageItems = (handleImageClick: (playlistId: string) => void) =>
   shows.map((show) => (

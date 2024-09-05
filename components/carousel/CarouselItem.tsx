@@ -3,7 +3,7 @@ import {
   getCssTransformProperties,
   getCssOpacity,
   getCssDisplay,
-} from "../../../utils/carouselstyles";
+} from "../../utils/carouselstyles";
 
 export interface CardProps {
   index: number;
