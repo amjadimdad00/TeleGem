@@ -25,7 +25,7 @@ const Carousel = ({ width, height, items }: CarouselProps) => {
   };
 
   return (
-    <div className="carousel-container max-lg:mt-10">
+    <div className="carousel-container mt-10">
       {/* Previous Button */}
       {activeIndex > 0 && (
         <button

@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="icon" href="../public/TeleGem.png" type="image/x-icon" />
+        <link rel="icon" href="/TeleGem.png" type="image/x-icon" />
         <title>TeleGem</title>
         <meta
           name="description"
