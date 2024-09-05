@@ -3,7 +3,7 @@ import { useState } from "react";
 import YouTube from "react-youtube";
 import useResponsiveVideoOpts from "../../utils/useResponsiveVideoOpts";
 
-import Carousel from "../Carousel/Carousel";
+import Carousel from "../carousel/Carousel";
 import { imageItems } from "../ImageItems/imageItems";
 
 const Player = () => {
